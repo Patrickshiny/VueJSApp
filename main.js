@@ -6,3 +6,5 @@ require('/Dataset');
 
 render();
 renderFromData();
+
+AppInit ();
