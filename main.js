@@ -9,3 +9,4 @@ renderFromData();
 
 AppInit ();
 AppFinished ();
+DataBackup();
