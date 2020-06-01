@@ -10,3 +10,4 @@ renderFromData();
 AppInit ();
 AppFinished ();
 DataBackup();
+DataStoring();
