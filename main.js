@@ -3,6 +3,7 @@ require('/here');
 require('/essential');
 
 require('/Dataset');
+require('/Configuration');
 
 render();
 renderFromData();
