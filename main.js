@@ -6,7 +6,7 @@ require('/Dataset');
 require('/Configuration');
 require('/preset');
 
-render();
+renderFromPreset();
 renderFromData();
 
 AppInit ();
