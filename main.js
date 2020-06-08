@@ -8,6 +8,7 @@ require('/preset');
 
 renderFromPreset();
 renderFromData();
+renderFromFinishingSetting();
 
 AppInit ();
 AppFinished ();
