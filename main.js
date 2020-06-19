@@ -14,3 +14,5 @@ AppInit ();
 AppFinished ();
 DataBackup();
 DataStoring();
+
+ClosingGUI();
