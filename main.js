@@ -6,6 +6,8 @@ require('/Dataset');
 require('/Configuration');
 require('/preset');
 
+Refresh ();
+
 renderFromPreset();
 renderFromData();
 renderFromFinishingSetting();
