@@ -19,6 +19,6 @@ renderFromData();
 renderFromFinishingSetting();
 
 
-AppFinished ();
+AppFinishingTask ();
 DataVerification();
 
