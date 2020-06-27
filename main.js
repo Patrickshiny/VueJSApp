@@ -12,6 +12,8 @@ AppInit ();
 require('/Dataset');
 require('/Configuration');
 
+Refresh ();
+
 renderFromPreset();
 renderFromData();
 renderFromFinishingSetting();
